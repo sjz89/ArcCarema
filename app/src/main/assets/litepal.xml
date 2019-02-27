@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="database" />
+
+    <version value="2" />
+
+    <list>
+        <mapping class="com.daylight.arccarema.Face"/>
+        <mapping class="com.daylight.arccarema.Feature"/>
+        <mapping class="com.daylight.arccarema.DetectedFace"/>
+    </list>
+</litepal>
